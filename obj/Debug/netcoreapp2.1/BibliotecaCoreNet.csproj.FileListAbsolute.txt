@@ -31,3 +31,4 @@ C:\Users\MAPEX\source\repos\BibliotecaCoreNet\obj\Debug\netcoreapp2.1\Biblioteca
 C:\Users\MAPEX\source\repos\BibliotecaCoreNet\obj\Debug\netcoreapp2.1\BibliotecaCoreNet.pdb
 C:\Users\MAPEX\source\repos\BibliotecaCoreNet\obj\Debug\netcoreapp2.1\BibliotecaCoreNet.csproj.CopyComplete
 C:\Users\MAPEX\source\repos\BibliotecaCoreNet\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Index.g.cshtml.cs
+C:\Users\MAPEX\source\repos\BibliotecaCoreNet\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Welcome.g.cshtml.cs

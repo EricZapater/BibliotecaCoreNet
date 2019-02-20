@@ -18,9 +18,12 @@ namespace BibliotecaCoreNet.Controllers
 
         //
         // GET : /HelloWorld/Welcome
-        public string Welcome(string name, int numtimes = 1)
+        public IActionResult Welcome(string name, int numtimes = 1)
         {
-            return HtmlEncoder.Default.Encode($"Hello {name}. Numtimes {numtimes}");
+            ViewData["message"] = "Hello " + name;
+            ViewData["Numtimes"] = numtimes;
+
+            return View();
         }
 
     }
